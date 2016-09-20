@@ -4,6 +4,9 @@ filetype off
 " Load plugins
 source ~/.vim/vimrc.plugins
 
+" Disable beeps
+set belloff=all
+
 " Maximum history
 set history=1000 
 
