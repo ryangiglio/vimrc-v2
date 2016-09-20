@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except the vimrc files
+!vimrc*
+
+# And this gitignore
+!.gitignore
+
+# Even inside subdirs
+./*
