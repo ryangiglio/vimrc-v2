@@ -35,7 +35,7 @@ augroup END " }
 
 " Tabs and indentation
 filetype indent on
-set nowrap
+set wrap
 set shiftwidth=2
 set tabstop=2
 set shiftwidth=2
