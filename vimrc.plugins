@@ -73,7 +73,7 @@ Plug 'kchmck/vim-coffee-script'
 Plug 'jelera/vim-javascript-syntax'
 Plug 'gavocanov/vim-js-indent'
 Plug 'mxw/vim-jsx'
-Plug 'othree/javascript-libraries-syntax.vim'
+" Plug 'othree/javascript-libraries-syntax.vim'
 
 call plug#end()
 " End plugins

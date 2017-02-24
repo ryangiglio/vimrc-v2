@@ -164,7 +164,7 @@ au BufNewFile,BufRead *.scss set filetype=css.sass
 
 " Javascript
 " Libraries for highlighting 
-let g:used_javascript_libs = 'jquery,underscore,backbone,angularjs,angularui,angularuirouter,react,flux,requirejs'
+" let g:used_javascript_libs = 'jquery,underscore,backbone,angularjs,angularui,angularuirouter,react,flux,requirejs'
 
 " JSX
 let g:jsx_ext_required = 0
